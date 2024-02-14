@@ -106,6 +106,7 @@ footer .social:hover {
   }
   body {
     background-image: url("./images/bg-mobile.svg");
+    background-size: contain;
   }
   main {
     display: flex;
